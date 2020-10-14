@@ -145,4 +145,103 @@ questions = [
             "scty": 0
         }
     },
+	{
+        "question": "Fantastyka jest nieodłącznie powiązana z niezwykłością i duchowością",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+	{
+        "question": "Fantastyka to tylko rozrywkowa popkulturowa papka, nie ma w niej miejsca na głębsze wartości",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Mój con zawiera komentarz społeczny",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Conworlding powinien być czymś więcej niż neckbeardowym pet projectem",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Wierzenia ludowe to dobre źródło inspiracji",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 10
+        }
+    },
+	{
+        "question": "Fantastyka budująca się tylko na fantastyce to szkodliwe zjawisko",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+	{
+        "question": "Chciałbym żyć w moim conie",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Wewnętrzna logika to podstawa każdego dobrego cona",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Najlepsze prawa natury w conie to takie przypominające prawdziwe",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+	{
+        "question": "Magitech to dobry pomysł",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+	{
+        "question": "Fantastyka to przede wszystkim pole do nieskrępowanej wyobraźni",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
 ];
