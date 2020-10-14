@@ -9,15 +9,6 @@ ideologies = [
         }
     },
 	{
-        "name": "Blask Naiuny",
-        "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
-        }
-    },
-	{
         "name": "Salam-Eun",
         "stats": {
             "econ": 60,
