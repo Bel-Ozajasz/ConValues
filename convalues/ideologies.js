@@ -3,7 +3,7 @@ ideologies = [
         "name": "Łzy Aszary",
         "stats": {
             "econ": 60,
-            "dipl": 80,
+            "dipl": 90,
             "govt": 50,
             "scty": -90
         }
